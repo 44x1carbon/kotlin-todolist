@@ -1,0 +1,5 @@
+rootProject.name = 'common'
+
+include 'common-jvm', 'common-js', 'backend'
+include 'backend'
+
